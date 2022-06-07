@@ -1,0 +1,20 @@
+Package: this.is.not.real
+Architecture: iphoneos-arm
+Version: 420
+Section: Utilities
+Maintainer: Randy420
+Installed-Size: 0
+Depends: mobilesubstrate
+Replaces: com.randy420.rr
+Filename: ./debs/this.is.not.real_420_iphoneos-arm.deb
+Size: 706
+MD5sum: c6e115aa8b312c0298c8f4d8373591d1
+SHA1: c5ac0bf2c4de387f5832806bf93f4b9c4182a668
+SHA256: 6c6e57f56674bf74f5ea6e4b4ceb399f4137b190bd3c1fd2f8666999acfeb53b
+SHA512: 2b8128f519d6e864318e219ae861ac72df68fc4aa688f2111963b6ca7fb507e3b04d163f6aaa849bb09426fdcf430d8c54a80b28f4d0e877386321dad01a1eb7
+Homepage: https://theemeraldisle.family
+Description: Dummy deb - don't download
+Name: dummy test deb
+Depiction: https://Randy-420.GitHub.io/depic/rr.html
+Author: Randy420 <randy.skinner@hotmail.com>
+

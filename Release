@@ -1,0 +1,41 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Fri, 07 Jan 2022 21:10:50 +0000
+Description: Simple things… Simpler.
+Label: Randy420's Official Test Repo
+Origin: Randy420's Test Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ dd1737c81907e0a2b9fae1284692f6cd              738 Packages
+ 70558426d5982cbe2f75f68a926f41ea              548 Packages.bz2
+ de2f767018881914713e1b5ef4bedf06              521 Packages.gz
+ f3d2353a0855b106313366aa332b93dc              596 Packages.xz
+ 800db2eece71e38f3f38ef66555b18cd              521 Packages.zst
+ 7b3b50abf2e683e522679ba858d50d15              229 Release
+ a2650b06c227c0133cdd36cc7adc4045              479 packages/Packages
+SHA1:
+ 918c6141d5aed0caa38c023e6e339407af2528d3              738 Packages
+ ed60847bf672f085ef5c8b71eb064f994e4107f7              548 Packages.bz2
+ 3592cc38e1c720e1a3f2d3f5256473985b858745              521 Packages.gz
+ 58125476e19e9dc194fb0fb870c4f05070a7f8df              596 Packages.xz
+ 936a22c22d3f4574296f1ab94fdd0048a84eb5f0              521 Packages.zst
+ 10ff5839c9cafe16adcf4867b5717ed246913ad8              229 Release
+ 961d0bc1eb1006ab666efe6632d7365c7d194ceb              479 packages/Packages
+SHA256:
+ 672c35d234dba963880c61beb1409a7cccc03cd60b18170ffddebd26ec3a0cec              738 Packages
+ 4d0b30483971350582f8babe0a439073a49d95c926930a888c32f9217e25e608              548 Packages.bz2
+ 11e85066349167129283a1d04f77aa9db3597233d1ff80ec69085f327c918606              521 Packages.gz
+ eb9088bdc5a91ebe52fee6e57ec55fcd0d8c88d44f8fb40954386aa4a8c430a6              596 Packages.xz
+ 63d943204128e3738b1f5452167e00045a78ee6d05af9b1dcaf448157432ac85              521 Packages.zst
+ e86b6a4b0f05f2a836027930530ae5bafc604a5c591722d28aabee3c2276b7be              229 Release
+ 3e6de6f73ce696e63ab70e8800b23ec56bad9b1b34a5a610cdd1755c9aab04cf              479 packages/Packages
+SHA512:
+ 4f58f4de5bb9b3f355024cffa4745958616ba582b30e33dc09f5a335b92ad4fa48d5aeb55640ed5c7979b425c581ea12f5e3fd3e5cee7120f1f6feb33f38c628              738 Packages
+ 9c0a44d21cbb9c4c4fded362542eeb62ed428bfe10af744523d7529ffc731c54802db405e8be62f8fc2d8f55d81cca5e019c5cade388c92e130b1f8a28fe9b07              548 Packages.bz2
+ db85120b756ed44823a5f691ae33580ebb97b7df4012d54e74ebe8db8b3d60d6445f4cd809d44164828b8b93987e111a4014c1e5b18a64b74722a8ee8ce7ca85              521 Packages.gz
+ 0147b57a6fd3efcb706dcdf0fc7fa8b546fdbd9a13a803cba60e76e005fb7eec669a8edad311f9b69f3c089889dd4f85faeed51205ede02d1d5d679bce4e5106              596 Packages.xz
+ cd7b7b4fbc9cdaca79de5585309e746743867ff2891a710521d6766e1dc056c1953586646829674a987498ec4c5bebd2723b37ae05e41ef83787f7024374c67d              521 Packages.zst
+ 0b6f6c395644fd33e7dfa6d5cef38acb1d731c2bfcbcb2cf37b2ddd7a4ab134a64cf06b6d76c1f90c907626bf8600841c80471c3e2c21b04f54570ac1922305b              229 Release
+ 707745085ca4bb33e5d91a0e556e840d082890aeece73c27e89ebbc6c37ad0ee342da0fbf92efebfbc092a465aabacdfb5a586906414325044522856b4b33f18              479 packages/Packages
